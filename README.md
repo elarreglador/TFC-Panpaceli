@@ -44,37 +44,36 @@ Se está utilizando una convención de mensajes de commit con emojis y prefijos 
 
 El log muestra claramente diferentes etapas o focos en el desarrollo:
 
-### Fase Inicial (Documentación y Preparativos):
+### Fase Inicial de preparativos y documentación (A partir de febrero):
 
-Desde abril de 2025, se han generado commits relacionados con la documentación (README, anexo, memoria, normativas aplicables como RGPD, LSSI-CE, Reglamento UE 1169/2011, etc.), la configuración del entorno (instalación de Ubuntu, Docker, Node-RED, MariaDB, SSH), y la estructura inicial del proyecto (tablas de la BD, creación de archivos, paleta de colores, logo).
+Desde febrero de 2025 que se inicia el proyecto se han generado commits relacionados con la documentación (README, anexo, memoria, normativas aplicables como RGPD, LSSI-CE, Reglamento UE 1169/2011, etc.), la configuración del entorno (instalación de Ubuntu, Docker, Node-RED, MariaDB, SSH), y la estructura inicial del proyecto (tablas de la BD, creación de archivos, paleta de colores, logo).
 
-### Fase de Autenticación y API (Finales de abril - Principios de mayo):
+### Fase de Autenticación y API (Final de abril y principio de mayo):
 
 A partir del 20 de abril de 2025, se intensifica el desarrollo de la aplicación con la implementación de:
 
-Navegación (go_router, login <-> signup).
+- Navegación (go_router, login <-> signup).
 
-Creación de usuarios (newCliente).
+- Creación de usuarios (newCliente).
 
-Manejo de tokens de seguridad (generación, almacenamiento, renovación, verificación), incluyendo la implementación de HTTPS para la API.
+- Manejo de tokens de seguridad (generación, almacenamiento, renovación, verificación), incluyendo la implementación de HTTPS para la API.
 
-Comunicación con Node-RED y Postman para los endpoints de la API (setValue, getValue, idEnTabla).
+- Comunicación con Node-RED y Postman para los endpoints de la API (setValue, getValue, idEnTabla).
 
-Manejo de datos de cliente y vendedor.
+- Manejo de datos de cliente y vendedor.
 
 ### Fase de Funcionalidades Principales (Mayo):
 
-A partir de mediados de mayo, me centro en la lógica de negocio y las funcionalidades clave de la aplicación:
+Front y back en paralelo: el desarrollo frontend/móvil va de la mano con la implementación del backend (API REST), ya a partir de mediados de mayo, me centro en la lógica de negocio y las funcionalidades clave de la aplicación:
 
-Gestión de Productos: Creación, edición, eliminación y activación/desactivación de productos por parte de los vendedores.
+- Gestión de Productos: Creación, edición, eliminación y activación/desactivación de productos por parte de los vendedores.
 
-Pedidos: Implementación de la funcionalidad para que los clientes puedan encargar productos (nuevoEncargo), mostrar el estado de los pedidos, permitir a los vendedores ver sus pedidos y cambiar su estado (pedidoSetState).
+- Pedidos: Implementación de la funcionalidad para que los clientes puedan encargar productos (nuevoEncargo), mostrar el estado de los pedidos, permitir a los vendedores ver sus pedidos y cambiar su estado (pedidoSetState).
 
-Geolocalización y Distancia: Adición de funciones GPS (getCurrentLocation, distancePythagoras), visualización de la distancia a los vendedores y filtrado de productos por distancia.
+- Geolocalización y Distancia: Adición de funciones GPS (getCurrentLocation, distancePythagoras), visualización de la distancia a los vendedores y filtrado de productos por distancia.
 
-Mejoras Estéticas: Numerosos commits de Mejora estética y Cambio menor indican un pulido constante de la interfaz de usuario, incluyendo temas (darkTheme), imágenes de fondo dinámicas y la apariencia de las listas.
+- Mejoras Estéticas: Numerosos commits de Mejora estética y Cambio menor indican un pulido constante de la interfaz de usuario, incluyendo temas (darkTheme), imágenes de fondo dinámicas y la apariencia de las listas.
 
-Front y back en paralelo: el desarrollo frontend/móvil va de la mano con la implementación del backend (API REST).
 
 ### Git log
 <details>
