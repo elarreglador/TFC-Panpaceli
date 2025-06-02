@@ -1,6 +1,12 @@
 # TFC-Panpaceli
 
-Panpaceli es un escaparate especializado en alimentos sin alergenos en el que diferentes vendedores muestran sus productos.
+Panpaceli es un escaparate especializado en alimentos sin alergenos en el que diferentes vendedores muestran sus productos. Este es el github donde se muestra la informacion publica sobre este trabajo de fin de ciclo (TFC), no el github propio del proyecto que en el momento de la redaccion de este documento permanece privado.
+
+[Memoria](https://github.com/elarreglador/TFC-Panpaceli/blob/main/Memoria/IES%20Abastos.%202024-25.%20Proyecto%20DAM.%207U.%20David%20Moreno%20Bolivar.pdf) - Documento principal con toda la informacion de la App y el backend.
+
+[Anexo A](https://github.com/elarreglador/TFC-Panpaceli/blob/main/Memoria/Anexo%20A.pdf) - Documentacion tecnica, especificaciones de hardware y puesta en marcha.
+
+[Diapositivas](https://github.com/elarreglador/TFC-Panpaceli/blob/main/Memoria/Diapositivas.pdf) - Presentadas en la defensa del proyecto.
 
 # Capturas de pantalla (Vendedor)
 
@@ -71,7 +77,9 @@ Mejoras Estéticas: Numerosos commits de Mejora estética y Cambio menor indican
 Front y back en paralelo: el desarrollo frontend/móvil va de la mano con la implementación del backend (API REST).
 
 ### Git log
-```
+<details>
+  <summary>Haz clic para ver el historial completo de commits</summary>
+<pre>
 * 9941d4a [David Moreno | 2025-05-28]  (HEAD -> main, origin/main, origin/HEAD) 🔴🐞 Node-red export: Corregido bug de guardado nuevo producto
 * 8be5952 [elarreglador | 2025-05-27]  🐞 Bug corregido: Fuerza recarga de searchScreen tras 1a actiavacion GPS
 * 0e65894 [elarreglador | 2025-05-24]  🐞 Bug corregido: Filtro de productos por distancia
@@ -391,7 +399,9 @@ Front y back en paralelo: el desarrollo frontend/móvil va de la mano con la imp
 * 30e6166 [elarreglador | 2025-02-28]  🔥 Eliminando Entregado del control de versiones
 * 4751df4 [elarreglador | 2025-02-28]  📚 Documentacion: Agregados preparativos
 * 2e28fb0 [elarreglador | 2025-02-28]  🎉 Primer commit!
-```
+</pre>
+</details>
+
 
 # Versiones publicadas
 
