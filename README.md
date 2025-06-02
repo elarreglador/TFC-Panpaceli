@@ -393,3 +393,27 @@ Front y back en paralelo: el desarrollo frontend/móvil va de la mano con la imp
 * 2e28fb0 [elarreglador | 2025-02-28]  🎉 Primer commit!
 ```
 
+# Versiones publicadas
+
+ v0.5.10 🔖 - solucion bug activac. GPS y guardado alergenos
+
+ v0.5.9 🔖 - Corregidos bugs y agregada documentacion
+
+ v0.5.8 🔖 - Dialogo de logout y mejoras esteticas
+
+ v0.5.7 🔖 - Permite busquedas de producto sin activar GPS
+
+ v0.5.6 🔖 - Muestra fecha y hora del pedido al cliente
+
+ v0.5.5 🔖 - Muestra fecha y hora del pedido al vendedor
+
+ v0.5.4 🔖 - Mejora estetica: darkTheme e imagen de fondo
+
+ v0.5.3 🔖 - Disponible filtro de distancia a vendedor
+
+ v0.5.2 🔖 - Acceso a GPS y calculo de distancia trigonometrica client…
+
+ v0.5.1 🔖 - Cliente tiene acceso a ficha de vendedor
+
+Panpaceli: [Descarga de versiones disponibles](https://github.com/elarreglador/TFC-Panpaceli/tree/main/Historial%20APK).
+
