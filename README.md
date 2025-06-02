@@ -23,7 +23,6 @@ Panpaceli es un escaparate especializado en alimentos sin alergenos en el que di
   <tr>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-29-24-270_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-29-30-548_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
-    <td><img src="" alt="" width="200" title=""></td>
   </tr>
 </table>
 
@@ -38,7 +37,6 @@ Panpaceli es un escaparate especializado en alimentos sin alergenos en el que di
   <tr>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-54-987_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-48-00-891_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
-    <td><img src="" alt="" width="200" title=""></td>
   </tr>
 </table>
 
@@ -405,6 +403,13 @@ Front y back en paralelo: el desarrollo frontend/móvil va de la mano con la imp
 </pre>
 </details>
 
+# Wallpaper
+
+La presentacion se hace con el wallpaper de la App instalado en los dispositivos presentados al jurado.
+
+<p align="center">
+  <img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Utiles/wallpaper.png" alt="Logotipo" width="300" title="Wallpaper">
+</p>
 
 # Versiones publicadas
 
