@@ -413,6 +413,14 @@ La presentacion se hace con el wallpaper de la App instalado en los dispositivos
   <img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Utiles/wallpaper.png" alt="Logotipo" width="300" title="Wallpaper">
 </p>
 
+# Acceso al grupo de whatsapp
+
+Grupo de testing de la App
+
+Creado el 15/5/2025
+
+Link de acceso: [https://chat.whatsapp.com/IAQRoOM87Bn5NMD09UMKAS](https://chat.whatsapp.com/IAQRoOM87Bn5NMD09UMKAS)
+
 # Versiones publicadas
 
  v0.5.10 🔖 - solucion bug activac. GPS y guardado alergenos
