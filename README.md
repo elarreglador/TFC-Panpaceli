@@ -23,6 +23,7 @@ Panpaceli es un escaparate especializado en alimentos sin alergenos en el que di
   <tr>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-29-24-270_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-29-30-548_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-06-02-12-01-23-909_com.example.panpaceli.jpg" alt="" width="200" title="Logout"></td>    
   </tr>
 </table>
 
@@ -30,11 +31,12 @@ Panpaceli es un escaparate especializado en alimentos sin alergenos en el que di
 
 <table>
   <tr>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-06-02-12-01-44-407_com.example.panpaceli.jpg" alt="" width="200" title="Login"></td>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-30-770_com.example.panpaceli.jpg" alt="" width="200" title="Datos de cliente"></td>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-43-810_com.example.panpaceli.jpg" alt="" width="200" title="Listado de productos disponibles"></td>
-    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-48-038_com.example.panpaceli.jpg" alt="" width="200" title="Listado de pedidos de cliente"></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-48-038_com.example.panpaceli.jpg" alt="" width="200" title="Listado de pedidos de cliente"></td>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-54-987_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
     <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-48-00-891_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
   </tr>
@@ -410,6 +412,14 @@ La presentacion se hace con el wallpaper de la App instalado en los dispositivos
 <p align="center">
   <img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Utiles/wallpaper.png" alt="Logotipo" width="300" title="Wallpaper">
 </p>
+
+# Acceso al grupo de whatsapp
+
+Grupo de testing de la App
+
+Creado el 15/5/2025
+
+Link de acceso: [https://chat.whatsapp.com/IAQRoOM87Bn5NMD09UMKAS](https://chat.whatsapp.com/IAQRoOM87Bn5NMD09UMKAS)
 
 # Versiones publicadas
 
