@@ -2,17 +2,45 @@
 
 Panpaceli es un escaparate especializado en alimentos sin alergenos en el que diferentes vendedores muestran sus productos.
 
+# Capturas de pantalla (Vendedor)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-29-00-708_com.example.panpaceli.jpg" alt="" width="200" title="Datos de vendedor"></td>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-29-09-819_com.example.panpaceli.jpg" alt="" width="200" title="Listado de pedidos de vendedor"></td>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-29-19-043_com.example.panpaceli.jpg" alt="" width="200" title="Listado de productos propios"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-29-24-270_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-29-30-548_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
+    <td><img src="" alt="" width="200" title=""></td>
+  </tr>
+</table>
+
+# Capturas de pantalla (Cliente)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-30-770_com.example.panpaceli.jpg" alt="" width="200" title="Datos de cliente"></td>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-43-810_com.example.panpaceli.jpg" alt="" width="200" title="Listado de productos disponibles"></td>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-48-038_com.example.panpaceli.jpg" alt="" width="200" title="Listado de pedidos de cliente"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-47-54-987_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
+    <td><img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Fotos%20y%20capturas/Capturas%20propias/Screenshot_2025-05-19-17-48-00-891_com.example.panpaceli.jpg" alt="" width="200" title="Info."></td>
+    <td><img src="" alt="" width="200" title=""></td>
+  </tr>
+</table>
+
 # Registro de actividad (git log)
 
 Se está utilizando una convención de mensajes de commit con emojis y prefijos que categorizan el tipo de cambio, lo que facilita la lectura.
-
-## Fases de Desarrollo Abarcadas
 
 El log muestra claramente diferentes etapas o focos en el desarrollo:
 
 ### Fase Inicial (Documentación y Preparativos):
 
-Desde el 17 de abril de 2025 y antes, hay muchos commits relacionados con la documentación (README, anexo, memoria, normativas aplicables como RGPD, LSSI-CE, Reglamento UE 1169/2011, etc.), la configuración del entorno (instalación de Ubuntu, Docker, Node-RED, MariaDB, SSH), y la estructura inicial del proyecto (tablas de la BD, creación de archivos, paleta de colores, logo).
+Desde abril de 2025, se han generado commits relacionados con la documentación (README, anexo, memoria, normativas aplicables como RGPD, LSSI-CE, Reglamento UE 1169/2011, etc.), la configuración del entorno (instalación de Ubuntu, Docker, Node-RED, MariaDB, SSH), y la estructura inicial del proyecto (tablas de la BD, creación de archivos, paleta de colores, logo).
 
 ### Fase de Autenticación y API (Finales de abril - Principios de mayo):
 
