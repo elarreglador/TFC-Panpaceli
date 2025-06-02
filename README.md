@@ -413,6 +413,8 @@ La presentacion se hace con el wallpaper de la App instalado en los dispositivos
 
 # Versiones publicadas
 
+ v0.5.11 🔖 - Corregidos bugs de GPS y guardado de nuevo producto
+
  v0.5.10 🔖 - solucion bug activac. GPS y guardado alergenos
 
  v0.5.9 🔖 - Corregidos bugs y agregada documentacion
