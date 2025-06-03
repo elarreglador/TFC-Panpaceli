@@ -444,6 +444,8 @@ Link de acceso: [https://chat.whatsapp.com/IAQRoOM87Bn5NMD09UMKAS](https://chat.
 
 # Versiones publicadas
 
+ v0.5.12 🔖 - Bugs: apertura apps de 3os (maps, whatsap ...) en android >13 y overflow de texto en tarjetas de OrdersListScreen
+
  v0.5.11 🔖 - Corregidos bugs de GPS y guardado de nuevo producto
 
  v0.5.10 🔖 - solucion bug activac. GPS y guardado alergenos
