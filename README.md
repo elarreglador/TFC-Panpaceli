@@ -406,6 +406,26 @@ Front y back en paralelo: el desarrollo frontend/móvil va de la mano con la imp
 </pre>
 </details>
 
+# TODO: Tareas pendientes
+
+```
+PRIORID HECHO	TO DO
+8       PDTE    fotografias de proveedor y su ausencia
+7       PDTE    verificar correo electronico
+6       PDTE    Bloquear edicion de perfil al pulsar guardar
+6       PDTE    CP permite introducir letras
+6       PDTE    crear producto: por defecto trazas en alergenos
+5       PDTE    Migrar funciones llamada a 3os a nueva clase
+5       PDTE    reducir datos del registro inicial
+4       PDTE    Recuperacion de clave de usuario
+3       PDTE    Pruebas unitarias de las funciones
+3       PDTE    notificaciones: cambio de estado de pedidos
+3       PDTE    puntuaciones entre vendedores y clientes
+2       PDTE    reducir consultas a la api
+1       PDTE    el logo en login screen responsive
+1       PDTE    autorevision de la BD para evitar corupcion
+```
+
 # Wallpaper
 
 La presentacion se hace con el wallpaper de la App instalado en los dispositivos presentados al jurado.
