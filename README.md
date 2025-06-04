@@ -1,9 +1,5 @@
 # TFC-Panpaceli
-
-<p align="center">
-  <img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Logos/Logo.png" alt="Logotipo" width="800" title="Panpaceli">
-  <img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Utiles/TFC-Panpaceli.png" alt="QR-CODE" width="150" title="QR">
-</p>
+![Banner](./assets/banner.png)
 
 Panpaceli es un escaparate especializado en alimentos sin alergenos en el que diferentes vendedores muestran sus productos. Este es el github donde se muestra la informacion publica sobre este trabajo de fin de ciclo (TFC), no el github propio del proyecto que en el momento de la redaccion de este documento permanece privado.
 
@@ -12,6 +8,10 @@ Panpaceli es un escaparate especializado en alimentos sin alergenos en el que di
 [Anexo A](https://github.com/elarreglador/TFC-Panpaceli/blob/main/Memoria/Anexo%20A.pdf) - Documentacion tecnica, especificaciones de hardware y puesta en marcha.
 
 [Diapositivas](https://github.com/elarreglador/TFC-Panpaceli/blob/main/Memoria/Diapositivas.pdf) - Presentadas en la defensa del proyecto.
+
+# Accede desde tu movil a esta pagina:
+
+<img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Utiles/TFC-Panpaceli.png" alt="QR-CODE" width="150" title="QR">
 
 # Capturas de pantalla (Vendedor)
 
