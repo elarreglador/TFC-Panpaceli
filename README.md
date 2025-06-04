@@ -3,6 +3,8 @@
 
 Panpaceli es un escaparate especializado en alimentos sin alergenos en el que diferentes vendedores muestran sus productos. Este es el github donde se muestra la informacion publica sobre este trabajo de fin de ciclo (TFC), no el github propio del proyecto que en el momento de la redaccion de este documento permanece privado.
 
+Los celíacos padecen una intolerancia permanente al gluten que puede provocar efectos adversos para la salud en las personas intolerantes que por tanto, deben evitar consumirlo pero ademas del gluten existen otros 13 grupos de alimentos que también generan alergias y/o intolerancias, los trabajaremos de igual forma, es decir indicando si el producto esta exento, tiene trazas o contiene el alérgeno
+
 [Memoria](https://github.com/elarreglador/TFC-Panpaceli/blob/main/Memoria/IES%20Abastos.%202024-25.%20Proyecto%20DAM.%207U.%20David%20Moreno%20Bolivar.pdf) - Documento principal con toda la informacion de la App y el backend.
 
 [Anexo A](https://github.com/elarreglador/TFC-Panpaceli/blob/main/Memoria/Anexo%20A.pdf) - Documentacion tecnica, especificaciones de hardware y puesta en marcha.
@@ -14,6 +16,7 @@ Panpaceli es un escaparate especializado en alimentos sin alergenos en el que di
 <img src="https://github.com/elarreglador/TFC-Panpaceli/blob/main/Img/Utiles/TFC-Panpaceli.png" alt="QR-CODE" width="150" title="QR">
 
 # Capturas de pantalla (Vendedor)
+El usuario se enfrentara a una APP que dependiendo de si lo identifica como vendedor o cliente le permitirá mostrar sus productos o ver los productos cercanos disponibles.
 
 <table>
   <tr>
@@ -43,7 +46,29 @@ Panpaceli es un escaparate especializado en alimentos sin alergenos en el que di
   </tr>
 </table>
 
-# Registro de actividad (git log)
+## Características principales
+
+Registro y gestión de vendedores: Los hornos y panaderías pueden registrarse y ofrecer sus productos.
+
+Búsqueda avanzada: Los usuarios pueden encontrar productos filtrando por ubicación y distancia.
+
+Encargos personalizados: Posibilidad de reservar productos a través de la app.
+
+Seguridad para alergicos e intolerantes: Información clara sobre alérgenos y productos seguros.
+
+Modelo de negocio: Cuota mensual para hornos, publicidad segmentada, eventos, cursos, talleres...
+
+## Tecnologías
+
+Frontend: Flutter (Android e iOS)
+
+Backend: API REST Node-RED
+
+Base de datos: MariaDB
+
+Control de versiones: Git y GitHub
+
+# Registro de actividad del programador(git log)
 
 Se está utilizando una convención de mensajes de commit con emojis y prefijos que categorizan el tipo de cambio, lo que facilita la lectura.
 
@@ -84,6 +109,18 @@ Front y back en paralelo: el desarrollo frontend/móvil va de la mano con la imp
 <details>
   <summary>Haz clic para ver el historial completo de commits</summary>
 <pre>
+* 3686d71 [elarreglador | 2025-06-03]  (tag: v0.5.12) 🛡️ Seguridad: verificacion de campos de info cliente
+* 5620c10 [elarreglador | 2025-06-03]  🐞 Bug corregido: solucion contenido tarjeta con posible desborde (OrdersListScreen)
+* 0848d8a [David Moreno | 2025-06-03]  📋 TODO: Agregado elemento a tareas pendientes
+*   96c7f87 [David Moreno | 2025-06-03]  Merge branch 'main' of https://github.com/elarreglador/Panpaceli
+|\  
+| * a48ff66 [elarreglador | 2025-06-02]  📚 Documentación: nuevos elementos en TODO
+* | c88c99a [David Moreno | 2025-06-03]  🐞 Bug corregido: Telf, whatsapp, mail y maps ahora funcionan en android >11
+* | 9d0d89e [David Moreno | 2025-06-03]  📋 TODO: Agregado elemento a tareas pendientes
+|/  
+* 606a5c6 [David Moreno | 2025-06-02]  🔥 Borrado: eliminados archivos apk
+* 3855966 [David Moreno | 2025-06-02]  (tag: v0.5.11) 📚 Documentación: TODO ordenado, reubicado y con nuevos elementos
+* 046530f [elarreglador | 2025-05-31]  Agregado TODO.txt
 * 9941d4a [David Moreno | 2025-05-28]  (HEAD -> main, origin/main, origin/HEAD) 🔴🐞 Node-red export: Corregido bug de guardado nuevo producto
 * 8be5952 [elarreglador | 2025-05-27]  🐞 Bug corregido: Fuerza recarga de searchScreen tras 1a actiavacion GPS
 * 0e65894 [elarreglador | 2025-05-24]  🐞 Bug corregido: Filtro de productos por distancia
@@ -413,7 +450,6 @@ PRIORID HECHO	TO DO
 8       PDTE    fotografias de proveedor y su ausencia
 7       PDTE    verificar correo electronico
 6       PDTE    Bloquear edicion de perfil al pulsar guardar
-6       PDTE    CP permite introducir letras
 6       PDTE    crear producto: por defecto trazas en alergenos
 5       PDTE    Migrar funciones llamada a 3os a nueva clase
 5       PDTE    reducir datos del registro inicial
