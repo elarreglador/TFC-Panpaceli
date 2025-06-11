@@ -1,4 +1,3 @@
-# TFC-Panpaceli
 ![Banner](./assets/banner.png)
 
 Panpaceli es un escaparate especializado en alimentos sin alergenos en el que diferentes vendedores muestran sus productos. Este es el github donde se muestra la informacion publica sobre este trabajo de fin de ciclo (TFC), no el github propio del proyecto que en el momento de la redaccion de este documento permanece privado.
